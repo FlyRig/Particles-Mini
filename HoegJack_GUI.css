@@ -1,7 +1,7 @@
 /*
 	HoegJack_GUI.css
  	by Jack Hoeg 
-	Last Edited: February 6, 2020
+	Last Edited: September 23, 2021
 */
 
 /* Based on https://webglfundamentals.org/webgl/lessons/webgl-text-html.html */
@@ -12,8 +12,6 @@ body {
 
 canvas {
 	margin: 0;
-	width: 100vw;
-	height: 100vh;
 	display: block;
 }
 
